@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-
+Slovakia first line
 second line failure
-=======
-Toiuhsdfkljhsdfgkjhcyölknhfgd
->>>>>>> 051a1f14006da5a284076fdee42f8ca6c229f2e1
